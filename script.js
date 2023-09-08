@@ -5,6 +5,10 @@ if (naam == "") {
     document.getElementById("welkom").innerHTML = "Welkom!";
 } else if (naam > -10000) {
     document.getElementById("welkom").innerHTML = "Welkom!";
+} else if (naam == "charaf") {
+    document.getElementById("welkom").innerHTML = "Welkom baas!";
+} else if (naam == "Charaf") {
+    document.getElementById("welkom").innerHTML = "Welkom baas!";
 } else {
     document.getElementById("welkom").innerHTML = "Welkom " + naam + "!";
 }
