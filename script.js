@@ -9,7 +9,8 @@ if (naam == "") {
     document.getElementById("welkom").innerHTML = "Welkom baas!";
 } else if (naam == "Charaf") {
     document.getElementById("welkom").innerHTML = "Welkom baas!";
-} else {
+}  
+else {
     document.getElementById("welkom").innerHTML = "Welkom " + naam + "!";
 }
 

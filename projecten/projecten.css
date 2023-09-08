@@ -74,15 +74,14 @@ body {
 @media (max-width: 800px) {
   .box {
     grid-template-columns: 1fr;
-    width: 40%;
-    height: 350px;
-    margin: 10% 30% 0% 30%;
+    width: 20%;
     background-color: #04040400;
   }
-
   .project {
-    width: 1300px;
-    height: 400px;
+    width: 800px;
+    height: 200px;
+    position: absolute;
+
   }
 }
 
