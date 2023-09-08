@@ -1,0 +1,15 @@
+/Users/087797/Projects/Intro/Intro/bin/Debug/net7.0/Intro
+/Users/087797/Projects/Intro/Intro/bin/Debug/net7.0/Intro.deps.json
+/Users/087797/Projects/Intro/Intro/bin/Debug/net7.0/Intro.runtimeconfig.json
+/Users/087797/Projects/Intro/Intro/bin/Debug/net7.0/Intro.dll
+/Users/087797/Projects/Intro/Intro/bin/Debug/net7.0/Intro.pdb
+/Users/087797/Projects/Intro/Intro/obj/Debug/net7.0/Intro.csproj.AssemblyReference.cache
+/Users/087797/Projects/Intro/Intro/obj/Debug/net7.0/Intro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/087797/Projects/Intro/Intro/obj/Debug/net7.0/Intro.AssemblyInfoInputs.cache
+/Users/087797/Projects/Intro/Intro/obj/Debug/net7.0/Intro.AssemblyInfo.cs
+/Users/087797/Projects/Intro/Intro/obj/Debug/net7.0/Intro.csproj.CoreCompileInputs.cache
+/Users/087797/Projects/Intro/Intro/obj/Debug/net7.0/Intro.dll
+/Users/087797/Projects/Intro/Intro/obj/Debug/net7.0/refint/Intro.dll
+/Users/087797/Projects/Intro/Intro/obj/Debug/net7.0/Intro.pdb
+/Users/087797/Projects/Intro/Intro/obj/Debug/net7.0/Intro.genruntimeconfig.cache
+/Users/087797/Projects/Intro/Intro/obj/Debug/net7.0/ref/Intro.dll
