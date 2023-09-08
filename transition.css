@@ -1,0 +1,7 @@
+body {
+    background: url(media/intro.gif);
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+    margin: 0;
+    padding: 0;
+}

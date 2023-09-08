@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="nl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mijn Portfolio</title>
+    <!-- Voeg de externe CSS-stijlen toe -->
+    <link rel="shortcut icon" href="media/favicon.png" type="image/x-icon" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="contact.css" />
+    <script src="form.js" defer></script>
+  </head>
+  <body>
+    <!-- Voeg de navigatiebalk (navbar) toe -->
+
+    <div id="header">
+      <a href="contact.html"><div class="button">Contact</div></a>
+      <header class="header">
+        <a href="index.html" style="text-decoration: none"><h1>Charaf</h1></a>
+      </header>
+      <nav class="navbar">
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="overmij.html">Over Mij</a></li>
+          <li><a href="portfolio.html">Portfolio</a></li>
+        </ul>
+      </nav>
+    </div>
+    <div class="container">
+      <h1>Contacteer mij</h1>
+      <form
+        action="https://getform.io/f/7eb67716-0d4f-4774-a4c1-7e30a154d73d"
+        method="POST"
+      >
+        <input type="text" name="name" placeholder="Naam" required />
+        <input type="email" name="email" placeholder="E-mail" required />
+        <input type="email" name="phone-number" placeholder="Telefoonnummer" />
+        <input type="email" name="email" placeholder="Bedrijfnaam" />
+        <input
+          type="text"
+          name="message"
+          placeholder="Bericht"
+          rows="'4"
+          required
+        />
+        <!-- add hidden Honeypot input to prevent spams -->
+        <input type="hidden" name="_gotcha" style="display: none !important" />
+        <!-- checkbox handle -->
+        <button type="submit" class="sub">Verzenden</button>
+      </form>
+    </div>
+    <!-- Voeg de externe JavaScript toe -->
+    <script src="script.js"></script>
+  </body>
+</html>
